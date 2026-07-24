@@ -8,7 +8,7 @@ El objetivo principal es resolver 20 preguntas clave de negocio mediante consult
 
 ## 🛠️ Stack Tecnológico
 
-* **Engine:** PostgreSQL 16
+* **Engine:** PostgreSQL 18
 * **Database Client:** pgAdmin 4 / psql
 * **Editor / IDE:** Visual Studio Code
 * **Version Control:** Git & GitHub
